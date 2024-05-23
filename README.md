@@ -6,8 +6,8 @@
 
 Git is a version control system that allows you to track changes in your code and collaborate with others. It's used by millions of developers around the world, including some of the largest companies in the world. In this skill tree, you'll learn how to use Git to manage your projects and collaborate with others.
 
-|   Index | Name                                            | Difficulty   | Tutorial                                                                                             |
-|---------|-------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | Tutorial                                                                                            |
+|---------|-------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
 |      01 | Your First Git Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-git-lab-92739)                              |
 |      02 | Clone a Repository                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/clone-a-repository-12707)                              |
 |      03 | Create a New Repository                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/create-a-new-repository-12718)                         |
@@ -95,7 +95,7 @@ Git is a version control system that allows you to track changes in your code an
 |      85 | Optimize the Local Repository                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/optimize-the-local-repository-12743)                   |
 |      86 | Delete a Submodule                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/delete-a-submodule-12726)                              |
 
-## Other Free Tutorials
+## More Free Tutorials
 
 - [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
@@ -122,4 +122,8 @@ Git is a version control system that allows you to track changes in your code an
 - [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
+
+## More Courses
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
