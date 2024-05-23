@@ -6,8 +6,8 @@
 
 Git is a version control system that allows you to track changes in your code and collaborate with others. It's used by millions of developers around the world, including some of the largest companies in the world. In this skill tree, you'll learn how to use Git to manage your projects and collaborate with others.
 
-|   Index | Name                                               | Difficulty   | Tutorial                                                                                             |
-|---------|----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | Tutorial                                                                                            |
+|---------|---------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Git Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-git-lab-92739)                              |
 |      02 | 📖 Clone a Repository                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/clone-a-repository-12707)                              |
 |      03 | 📖 Create a New Repository                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/create-a-new-repository-12718)                         |
@@ -123,7 +123,8 @@ Git is a version control system that allows you to track changes in your code an
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
